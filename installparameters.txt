@@ -1,1 +1,0 @@
-$AdobeAcrobatReaderDC_InstallerCMD="/Update $MSPFile EULA_ACCEPT=YES"
