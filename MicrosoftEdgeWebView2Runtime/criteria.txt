@@ -1,0 +1,1 @@
+[scriptblock]$MicrosoftEdgeWebView2RuntimeParam={$_.Architecture -in $Architecture}

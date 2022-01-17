@@ -1,0 +1,1 @@
+[scriptblock]$MicrosoftEdgeParam={$_.Channel -eq "Stable" -and $_.Release -eq "Enterprise" -and $_.Architecture -in $Architecture}

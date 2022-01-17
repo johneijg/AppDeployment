@@ -1,0 +1,1 @@
+[scriptblock]$MozillaFirefoxParam={ $_.Channel -eq "LATEST_FIREFOX_VERSION" -and $_.Architecture -in $Architecture  -and $_.Type -eq "msi" -and $_.Language -in $Language}

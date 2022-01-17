@@ -1,0 +1,1 @@
+[scriptblock]$MicrosoftTeamsParam={$_.Ring -eq "General" -and $_.Architecture -in $Architecture -and $_.Type -eq "msi"}

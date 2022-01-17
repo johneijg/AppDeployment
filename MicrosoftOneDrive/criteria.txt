@@ -1,0 +1,1 @@
+[scriptblock]$MicrosoftOneDriveParam={$_.Ring -eq "Production" -and $_.Type -eq "exe" -and $_.Architecture -in $Architecture}

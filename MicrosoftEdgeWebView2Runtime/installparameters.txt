@@ -1,0 +1,1 @@
+$MicrosoftEdgeWebView2Runtime_InstallerCMD="/silent /install"

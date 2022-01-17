@@ -1,0 +1,1 @@
+[scriptblock]$OracleJava8Param={ $_.Architecture -in $Architecture}
