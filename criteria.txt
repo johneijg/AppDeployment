@@ -1,1 +1,0 @@
-[scriptblock]$AdobeAcrobatReaderDCParam={$_.Language -in $Language -or $_.Language -eq "Neutral" -and $_.Architecture -in $Architecture}
