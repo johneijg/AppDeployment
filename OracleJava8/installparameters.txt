@@ -1,0 +1,1 @@
+$OracleJava8_InstallerCMD="INSTALL_SILENT=1 AUTO_UPDATE=0"

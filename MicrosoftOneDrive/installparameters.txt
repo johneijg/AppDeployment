@@ -1,0 +1,1 @@
+$MicrosoftOneDrive_InstallerCMD="/ALLUSERS /SILENT"

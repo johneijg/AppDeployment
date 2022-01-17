@@ -1,0 +1,1 @@
+$MicrosoftFSLogixApps_InstallerCMD="/install /quiet /norestart"

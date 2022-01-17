@@ -1,0 +1,1 @@
+$NotepadPlusPlus_InstallerCMD="/S"
