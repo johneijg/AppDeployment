@@ -1,0 +1,11 @@
+#Extract MSI from EXE
+Start-Process -FilePath $file -ArgumentList "-sfx_o`"$TempPath\$app`" -sfx_ne -sfx_nu" -Wait
+#Remove downloaded installer
+Remove-Item -path $file -force
+
+#Get extracted MSI
+$installerfile=Get-childitem -Path "$TempPath\$app\*" -Include *.msi -Recurse 
+
+#Get MSP file
+$Patchfile=Get-childitem -Path "$TempPath\$app\*" -Include *.msp -Recurse 
+$MSPFile=$Patchfile.fullname
