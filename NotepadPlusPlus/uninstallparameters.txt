@@ -1,0 +1,1 @@
+$NotepadPlusPlus_Uninstall='C:\Program Files\Notepad++\uninstall.exe /S'
