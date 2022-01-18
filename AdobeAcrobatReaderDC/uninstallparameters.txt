@@ -1,1 +1,1 @@
-$AdobeAcrobatReaderDC_Uninstall=New-IntuneWin32AppDetectionRuleMSI -ProductCode "{AC76BA86-1043-1033-7760-BC15014EA700}" -Verbose
+$AdobeAcrobatReaderDC_Uninstall='msiexec.exe /X "{AC76BA86-1043-1033-7760-BC15014EA700}" /qn' -Verbose
