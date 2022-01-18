@@ -1,1 +1,1 @@
-$MicrosoftOneDrive_detectionrule="New-IntuneWin32AppDetectionRuleFile -Existence -path "C:\Program Files\Microsoft OneDrive\$version" -FileOrFolder "OneDriveSetup.exe" -DetectionType exists"
+$MicrosoftOneDrive_detectionrule="New-IntuneWin32AppDetectionRuleFile -Existence -path 'C:\Program Files\Microsoft OneDrive\' -FileOrFolder `"$Version`" -DetectionType exists"
