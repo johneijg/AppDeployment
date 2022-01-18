@@ -1,1 +1,1 @@
-$MicrosoftOneDrive_Uninstall="C:\Program Files\Microsoft OneDrive\$Version\OneDriveSetup.exe  /uninstall  /allusers"
+$MicrosoftOneDrive_Uninstall="C:\Program Files\Microsoft OneDrive\$Version\OneDriveSetup.exe /uninstall /allusers"
