@@ -1,1 +1,2 @@
-$AdobeAcrobatReaderDC_InstallerCMD="/Update `"$MSPFile`" EULA_ACCEPT=YES"
+#$AdobeAcrobatReaderDC_InstallerCMD="/Update `"$MSPFile`" EULA_ACCEPT=YES"
+$AdobeAcrobatReaderDC_InstallerCMD="/sAll /rs /msi EULA_ACCEPT=YES"
