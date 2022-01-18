@@ -1,0 +1,1 @@
+$MicrosoftEdgeWebView2Runtime_Uninstall='"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\97.0.1072.62\Installer\setup.exe" --uninstall --msedgewebview --system-level --verbose-logging'
