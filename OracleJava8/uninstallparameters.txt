@@ -1,0 +1,1 @@
+$OracleJava8_Uninstall='msiexec.exe /X "{26A24AE4-039D-4CA4-87B4-2F64180321F0}" /qn -Verbose'
