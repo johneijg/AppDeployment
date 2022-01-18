@@ -1,1 +1,1 @@
-$NotepadPlusPlus_detectionrule=New-IntuneWin32AppDetectionRuleRegistry -StringComparison -ValueName "DisplayVersion" -KeyPath 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Notepad++' -StringComparisonOperator equal -StringComparisonValue '"$Version'"
+$NotepadPlusPlus_detectionrule=New-IntuneWin32AppDetectionRuleRegistry -StringComparison -ValueName "DisplayVersion" -KeyPath 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Notepad++' -StringComparisonOperator equal -StringComparisonValue `"$Version`"
