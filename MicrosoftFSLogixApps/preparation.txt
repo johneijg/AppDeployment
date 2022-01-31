@@ -1,0 +1,3 @@
+﻿Expand-Archive -Path $SetupFile -DestinationPath $TempPath\$app\
+$installerfile=get-childitem -Path $TempPath\$app\x64 -Include FSLogixAppsSetup.exe -Recurse
+$SetupFile=$installerfile.fullname
