@@ -1,1 +1,1 @@
-[scriptblock]$AdobeAcrobatReaderDCParam={$_.Language -eq "Hindi" -or $_.Language -eq "Neutral" -and $_.Architecture -in $Architecture}
+[scriptblock]$AdobeAcrobatReaderDCParam={$_.Language -eq "MUI" -or $_.Language -eq "Neutral" -and $_.Architecture -in $Architecture}
