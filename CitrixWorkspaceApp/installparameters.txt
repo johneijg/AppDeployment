@@ -1,1 +1,1 @@
-$CitrixWorkspaceApp_InstallerCMD=""
+$CitrixWorkspaceApp_InstallerCMD="/silent /forceinstall /noreboot EnableCEIP=False"

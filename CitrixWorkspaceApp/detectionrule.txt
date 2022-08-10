@@ -1,0 +1,1 @@
+$CitrixWorkspaceApp_detectionrule=New-IntuneWin32AppDetectionRuleRegistry -VersionComparison -KeyPath 'HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\CitrixOnlinePluginPackWeb' -ValueName "DisplayVersion" -VersionComparisonOperator "Equals" -VersionComparisonValue "$Version`" -Check32BitOn64System $True

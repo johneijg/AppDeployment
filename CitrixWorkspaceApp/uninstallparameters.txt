@@ -1,1 +1,1 @@
-$CitrixWorkspaceApp_Uninstall=''
+$CitrixWorkspaceApp_Uninstall='CitrixWorkspaceApp.exe /silent /uninstall'
