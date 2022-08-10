@@ -1,0 +1,1 @@
+[scriptblock]$CitrixWorkspaceAppParam={$_.Stream -eq "Current"}
